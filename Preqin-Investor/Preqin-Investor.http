@@ -1,0 +1,6 @@
+@Preqin_Investor_HostAddress = http://localhost:5288
+
+GET {{Preqin_Investor_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
